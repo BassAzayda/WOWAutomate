@@ -1,2 +1,0 @@
-# WOWAutomate
-Created with CodeSandbox
